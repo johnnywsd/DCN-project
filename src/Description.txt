@@ -1,0 +1,3 @@
+Session Description:
+Type: Real Time Streaming
+Encoding: MJPEG
